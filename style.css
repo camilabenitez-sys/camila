@@ -2,11 +2,11 @@ body{
 color:rgb(13, 63, 109);
 blackground: rgb(69, 170, 173);
 margin: 0px;
-
+font-family : "DM Serif Text" , sans-serif;
 }
 
 hearder{
-    border-bottom: solid 2px red;
+    border-bottom: solid 2px rgb(231, 219, 219);
     padding: 20px;
     font-size: 32px ;
     color:blueviolet;
@@ -18,4 +18,7 @@ section{
     display:flex;
     justify-content: center;
 
+}
+.chamada-texto{
+    margin-right: 5%;
 }
