@@ -6,10 +6,10 @@ font-family : "Alfa Slab One" , sans-serif;
 }
 
 header{
-    border-bottom: solid 2px rgb(231, 219, 219);
+    border-bottom: solid 2px rgb(184, 28, 28);
     padding: 20px;
     font-size: 32px ;
-    color:blueviolet;
+    color:rgb(0, 0, 0);
 }
 .chamada{
     blackground: rgb(197, 9, 41);
