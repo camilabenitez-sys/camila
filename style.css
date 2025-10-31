@@ -5,13 +5,13 @@ margin: 0px;
 font-family : "DM Serif Text" , sans-serif;
 }
 
-hearder{
+header{
     border-bottom: solid 2px rgb(231, 219, 219);
     padding: 20px;
     font-size: 32px ;
     color:blueviolet;
 }
-section{
+.chamada{
     blackground: pink;
     padding-bottom: 80px;
     padding-top: 80px;
@@ -31,4 +31,13 @@ font-size: 20px;
 } 
 img{
     height: 200px;
+}
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
 }
