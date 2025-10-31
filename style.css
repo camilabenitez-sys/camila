@@ -2,7 +2,7 @@ body{
 color:rgb(13, 63, 109);
 blackground: rgb(69, 170, 173);
 margin: 0px;
-font-family : "DM Serif Text" , sans-serif;
+font-family : "Alfa Slab One" , sans-serif;
 }
 
 header{
@@ -12,7 +12,7 @@ header{
     color:blueviolet;
 }
 .chamada{
-    blackground: pink;
+    blackground: rgb(197, 9, 41);
     padding-bottom: 80px;
     padding-top: 80px;
     display:flex;
