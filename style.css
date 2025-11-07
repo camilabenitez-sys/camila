@@ -3,6 +3,7 @@ color:rgb(13, 63, 109);
 blackground: rgb(69, 170, 173);
 margin: 0px;
 font-family : "Alfa Slab One" , sans-serif;
+margin-bottom:100px; 
 }
 
 header{
@@ -40,9 +41,16 @@ img{
 .categoria{
     padding-left: 20px;
     padding-right: 20px;
+    margin-top: 50px;
 }
 .categoria-videos img{
     opacity: 0.5;
     height: 200px;
-    
+}
+.categoria-videos img:hover{
+    opacity: 1.0;
+    border: 1px solid red;
+}
+.categoria-videos h2{
+   color: aqua;
 }
